@@ -1,6 +1,6 @@
 {
   "name": "cli-vbox",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "NodeJs based cli to automate basic virtual machine management functions with VirtualBox",
   "main": "index.js",
   "bin": {
